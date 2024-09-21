@@ -1,0 +1,4 @@
+This is sample file.
+Solve this question
+Write a Python script using the Azure SDK that uploads a file to an Azure Blob Storage
+container. Ensure the script checks if the container exists and creates it if it does not.
